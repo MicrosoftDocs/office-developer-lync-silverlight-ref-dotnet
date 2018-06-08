@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    "Microsoft.Lync.Controls.Framework",
+    "Microsoft.Lync.Utilities",
+    "microsoft.office.uc",
+    "System.Core",
+    "System.Windows.Browser",
+    "System.Windows.Controls"
+  ],
+  "lync-silverlight": [
+    "microsoft.lync.controls",
+    "Microsoft.Lync.Model"
+  ]
+}
