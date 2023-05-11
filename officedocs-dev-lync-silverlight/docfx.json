@@ -39,6 +39,7 @@
       ]
     },
     "globalMetadata": {
+      "feedback_system": "Standard",
       "apiPlatform": "dotnet",
       "breadcrumb_path": "~/breadcrumb/toc.yml",
       "ROBOTS": "INDEX,FOLLOW",
@@ -49,6 +50,7 @@
       "ms.topic": "reference",
       "audience": "developer",
       "ms.reviewer": "",
+      "ms.suite": "office",
       "ms.prod": "lync",
       "ms.technology": "sdk",
       "ms.tgt_pltfrm": "dotnet",
